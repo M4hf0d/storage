@@ -1,0 +1,73 @@
+{
+  "projects": [
+    {
+      "name": "Captivate",
+      "url": "https://github.com/M4hf0d/Captivate",
+      "description": "Captivate streamlines venture capital operations with automated fund administration, equity management, compensation solutions, and liquidity management.",
+      "skills": ["Django Rest Framework", "PostgreSQL", "Swagger", "Docker", "GCP", "Stripe API", "Celery", "Redis"],
+      "demo": "https://bump.sh/m4hf0d/doc/captivateapi",
+      "github": "https://github.com/M4hf0d/Captivate",
+      "image": "https://github.com/M4hf0d/website/blob/assets/Projects/captivate.png?raw=true"
+    },
+    {
+      "name": "Traffic",
+      "url": "https://github.com/me50/M4hf0d/tree/ai50/projects/2024/x/traffic",
+      "description": "An AI that identifies which traffic sign appears in a photograph using a TensorFlow convolutional neural network.",
+      "skills": ["Python", "TensorFlow"],
+      "github": "https://github.com/me50/M4hf0d/tree/ai50/projects/2024/x/traffic",
+      "image": "https://github.com/M4hf0d/website/blob/assets/Projects/traffic.png?raw=true"
+    },
+	    {
+      "name": "Edulink",
+      "url": "https://github.com/M4hf0d/",
+      "description": "Developed a Django Rest Framework comprehensive School Management SaaS solution for classrooms, staff, students, and lectures & notifications.",
+      "skills": ["Django Rest Framework", "PostgreSQL", "Swagger", "Docker", "Redis"],
+      "demo": "https://bump.sh/m4hf0d/doc/edulink-api",
+      "website": "https://www.edulinkone.com/#!/demo",
+      "image": "https://github.com/M4hf0d/website/blob/assets/Projects/edulink.png?raw=true"
+    },
+    {
+      "name": "Attention",
+      "url": "https://github.com/me50/M4hf0d/tree/ai50/projects/2024/x/attention",
+      "description": "	.",
+      "skills": ["Python", "NLTK"],
+      "github": "https://github.com/me50/M4hf0d/tree/ai50/projects/2024/x/attention",
+      "image": "https://github.com/M4hf0d/website/blob/assets/Projects/attention.png?raw=true"
+    },
+    {
+      "name": "Homelift Ecommerce",
+      "url": "https://github.com/M4hf0d/homelift-api",
+      "description": "Integration and management of furniture products, orders, and transactions, providing a smooth and user-friendly online shopping experience.",
+      "skills": ["Django Rest Framework", "Swagger", "Docker", "PostgreSQL"],
+      "demo": "https://bump.sh/m4hf0d/doc/homelift-api",
+      "github": "https://github.com/M4hf0d/homelift-api",
+      "image": "https://github.com/M4hf0d/website/blob/assets/Projects/homelift.png?raw=true"
+    },
+	    {
+      "name": "Injector Cisco",
+      "url": "https://github.com/M4hf0d/telent-auto",
+      "description": "A network configuration tool developed as a CLI script and desktop application using Python and PyQt for configuring Cisco devices.",
+      "skills": ["Python", "PyQt"],
+      "github": "https://github.com/M4hf0d/telent-auto",
+      "image": "https://github.com/M4hf0d/website/blob/assets/Projects/qt.png?raw=true"
+    },
+    {
+      "name": "Minesweeper",
+      "url": "https://github.com/me50/M4hf0d/tree/ai50/projects/2023/x/minesweeper",
+      "description": "An AI that plays the classic Windows 'Minesweeper' game using a knowledge base and inference.",
+      "skills": ["Python"],
+      "github": "https://github.com/me50/M4hf0d/tree/ai50/projects/2023/x/minesweeper",
+      "image": "https://github.com/M4hf0d/website/blob/assets/Projects/minesweeper.png?raw=true"
+    },
+
+    {
+      "name": "C$50 Finance",
+      "url": "https://github.com/me50/M4hf0d/tree/cs50/problems/2022/x/finance",
+      "description": "A web app to manage portfolios of stocks, allowing you to check real stock prices and portfolio values, and buy/sell stocks.",
+      "skills": ["HTML", "CSS", "Flask", "SQLite"],
+      "website": "https://finance.cs50.net/login",
+      "github": "https://github.com/me50/M4hf0d/tree/cs50/problems/2022/x/finance",
+      "image": "https://github.com/M4hf0d/website/blob/assets/Projects/finance.png?raw=true"
+    }
+  ]
+}
