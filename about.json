@@ -1,0 +1,45 @@
+{
+  "Mission": "BRIDGE THE GAP BETWEEN DATA AND ACTION. APIS. INSIGHTS. CLOUD.",
+  "description": "Driven by a desire to make a difference, I translate data into actionable insights that empower positive change. I develop APIs that bridge the gap between applications and databases then leverage data to drive informed decision-making, optimize resource allocation, and ultimately boost business performance & powered by cloud-based infrastructure.\n\nBeyond the realm of Coding, I actively contribute to vibrant tech communities, participating in Scientific Clubs like Alphabit Club and Google Developer Student Clubs.",
+  "Skills": [
+    {
+      "Category": "Web Development",
+      "Skills": [
+        "Django",
+        "Django Rest Framework",
+        "Flask",
+        "Python",
+        "SQL",
+        "Redis",
+        "Celery",
+        "WebSockets",
+        "Swagger",
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "Category": "Data Science & AI",
+      "Skills": [
+        "Pandas",
+        "NumPy",
+        "matplotlib",
+        "Seaborn",
+        "scikit-learn",
+        "Keras",
+        "TensorFlow"
+      ]
+    },
+    {
+      "Category": "DevOps",
+      "Skills": [
+        "Linux",
+        "Docker",
+        "Git/Github",
+        "CI/CD pipeline",
+        "Google Cloud Platform"
+      ]
+    }
+  ]
+}

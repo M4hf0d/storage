@@ -1,0 +1,14 @@
+[
+    {
+      "type": "Data Science",
+      "link": "https://your-website.com/data-cv.pdf"  
+    },
+    {
+      "type": "Backend Development",
+      "link": "https://your-website.com/backend-dev-cv.pdf"  
+    },
+    {
+      "type": "Student",
+      "link": "https://your-website.com/student-cv.pdf"  
+    }
+  ]
