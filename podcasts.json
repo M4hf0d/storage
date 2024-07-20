@@ -3,22 +3,22 @@
     {
       "name": "Deep Dive with Ali Abdaal",
       "link": "https://open.spotify.com/show/7gZkflCpck1rTixj8M7yHt?si=204771d86f764fc2",
-      "image_url": "https://github.com/M4hf0d/storage/blob/assets/deepdive.jpg?raw=true"
+      "image_url": "https://github.com/M4hf0d/storage/blob/website/Podcasts/deepdive.jpg?raw=true"
     },
     {
       "name": "Jocko Podcast",
       "link": "https://open.spotify.com/show/7irxBvxNqGYnUdFo1c2gMc?si=8e081ce777ee45e1",
-      "image_url": "https://github.com/M4hf0d/storage/blob/assets/jocko.png?raw=true"
+      "image_url": "https://github.com/M4hf0d/storage/blob/website/Podcasts/jocko.png?raw=true"
     },
     {
       "name": "Darknet Diaries",
       "link": "https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5?si=c22bf0fa0dff4901",
-      "image_url": "https://github.com/M4hf0d/storage/blob/assets/darknet.jpg?raw=true"
+      "image_url": "https://github.com/M4hf0d/storage/blob/website/Podcasts/darknet.jpg?raw=true"
     },
     {
       "name": "The Joe Rogan Experience",
       "link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk?si=fc30877a7c8f44fb",
-      "image_url": "https://github.com/M4hf0d/storage/blob/assets/rogan.jpg?raw=true"
+      "image_url": "https://github.com/M4hf0d/storage/blob/website/Podcasts/rogan.jpg?raw=true"
     },
     {
       "name": "Wled Horma Talk",
@@ -28,17 +28,17 @@
     {
       "name": "The Game w/ Alex Hormozi",
       "link": "https://open.spotify.com/show/6YNopzKDGDwf0auIpPTIID?si=50d4c64613364602",
-      "image_url": "https://github.com/M4hf0d/storage/blob/assets/hormozi.jpg?raw=true"
+      "image_url": "https://github.com/M4hf0d/storage/blob/website/Podcasts/hormozi.jpg?raw=true"
     },
     {
       "name": "Valuetainment",
       "link": "https://open.spotify.com/show/08oxWQEDY8WGwbmusAbzgr?si=f05e818991ff4750",
-      "image_url": "https://github.com/M4hf0d/storage/blob/assets/pbd.png?raw=true"
+      "image_url": "https://github.com/M4hf0d/storage/blob/website/Podcasts/pbd.png?raw=true"
     },
     {
       "name": "Lex Fridman Podcast",
       "link": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL?si=921487b1161b4656",
-      "image_url": "https://github.com/M4hf0d/storage/blob/assets/lex.jpg?raw=true"
+      "image_url": "https://github.com/M4hf0d/storage/blob/website/Podcasts/lex.jpg?raw=true"
     }
   ]
 }
